@@ -16,6 +16,11 @@ body{
     margin-right: 8px !important;
 }
 
+.new{
+    font-family: cursive;
+    margin-top: inherit;
+}
+
 .jumbo {
     font-weight: 700 !important;
     color: black !important;
